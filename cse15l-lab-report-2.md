@@ -6,7 +6,7 @@
 
 ## Code Change #2
 ![Image](https://www.linkpicture.com/q/Screen-Shot-2022-04-08-at-11.00.09-AM.png)
-* [Link to test file](https://github.com/SathyaVen/markdown-parser/blob/main/test.md)
+* [Link to test file](https://github.com/SathyaVen/markdown-parser/blob/main/test2.md)
 * The Symptom: ![Image](https://www.linkpicture.com/q/Screen-Shot-2022-04-08-at-11.00.09-AM.png)
 * The program runs succesfully, However, it erronously adds the word "hi" to the list as it is in the format of the list.
 
