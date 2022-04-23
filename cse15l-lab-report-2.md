@@ -5,7 +5,7 @@
 * There is an index out of bounds error because initally the program assumes there is a link present in the file. This cause an error when trying to add to the toReturn Array list as it cannot add a substring of the file. 
 
 ## Code Change #2
-![Image](https://www.linkpicture.com/q/Screen-Shot-2022-04-08-at-11.00.09-AM.png)
+![Image](https://www.linkpicture.com/q/Screen-Shot-2022-04-23-at-4.26.55-PM.png)
 * [Link to test file](https://github.com/SathyaVen/markdown-parser/blob/main/test2.md)
 * The Symptom: ![Image](https://www.linkpicture.com/q/Screen-Shot-2022-04-08-at-11.00.09-AM.png)
 * The program runs succesfully, However, it erronously adds the word "hi" to the list as it is in the format of the list.
