@@ -19,3 +19,5 @@
 
 ![Image](https://i.ibb.co/JHcRGg9/Screen-Shot-2022-05-06-at-6-50-49-PM.png)
 
+* Looking at the .ssh folder, you can see the private key id_rsa and the public key id_rsa.pub
+
