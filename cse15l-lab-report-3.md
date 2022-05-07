@@ -10,3 +10,12 @@
 ![Image](https://i.ibb.co/CsgYWv0/Screen-Shot-2022-05-06-at-6-37-08-PM.png)
 
 * As you can see above, I created a random file, and used the `scp` command to copy it over to ieng6.
+
+## Setup Github Access from ieng6
+
+![Image](https://i.ibb.co/hCNj92s/Screen-Shot-2022-05-06-at-6-49-52-PM.png)
+
+* From above, you can see the public key I added to GitHub.
+
+![Image](https://i.ibb.co/JHcRGg9/Screen-Shot-2022-05-06-at-6-50-49-PM.png)
+
