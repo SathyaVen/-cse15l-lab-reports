@@ -27,4 +27,17 @@
 
 ## Copy Whole Directories with `scp -r`
 
+![Image](https://i.ibb.co/VLSQRJF/Screen-Shot-2022-05-08-at-4-35-51-PM.png)
+
+* First I used the `scp -r` command to copy the directory to my ieng6 account.
+
 ![Image](https://i.ibb.co/XZL4Jbx/Screen-Shot-2022-05-08-at-4-35-30-PM.png)
+
+* Then I ran the program.
+
+![Image](https://i.ibb.co/9c47PR7/Screen-Shot-2022-05-08-at-4-27-47-PM.png)
+
+* This is the command I would use to do all of the commands in a single line.
+
+
+
