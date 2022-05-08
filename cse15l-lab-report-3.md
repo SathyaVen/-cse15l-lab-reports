@@ -27,3 +27,4 @@
 
 ## Copy Whole Directories with `scp -r`
 
+![Image](https://i.ibb.co/XZL4Jbx/Screen-Shot-2022-05-08-at-4-35-30-PM.png)
