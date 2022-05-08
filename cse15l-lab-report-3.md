@@ -25,3 +25,5 @@
 
 * This shows I was able to commit and push changes to a github repository in my ieng6 account. [Link to commit](https://github.com/SathyaVen/markdown-parser/commit/0907a07d1b8c34ee26d35df558354441b7a795dc)
 
+## Copy Whole Directories with `scp -r`
+
