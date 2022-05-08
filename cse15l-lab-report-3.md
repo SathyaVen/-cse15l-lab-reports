@@ -21,7 +21,7 @@
 
 * Looking at the .ssh folder, you can see the private key id_rsa and the public key id_rsa.pub
 
-![Image](https://i.ibb.co/B3NHdfL/Screen-Shot-2022-05-08-at-2-46-42-PM.png)
+![Image](https://i.ibb.co/ByKxQpp/Screen-Shot-2022-05-08-at-2-49-59-PM.png)
 
 * This shows I was able to commit and push changes to a github repository in my ieng6 account. [Link to commit](https://github.com/SathyaVen/markdown-parser/commit/0907a07d1b8c34ee26d35df558354441b7a795dc)
 
