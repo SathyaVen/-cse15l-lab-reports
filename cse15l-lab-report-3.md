@@ -7,7 +7,7 @@
 
 * The above image shows the command `ssh sven` being run. "sven" is the alias I set in the config file.
 
-![Image](https://i.ibb.co/CsgYWv0/Screen-Shot-2022-05-06-at-6-37-08-PM.png)
+![Image](https://www.linkpicture.com/q/Screen-Shot-2022-05-15-at-4.48.43-PM.png)
 
 * As you can see above, I created a random file, and used the `scp` command to copy it over to ieng6.
 
@@ -23,7 +23,7 @@
 
 ![Image](https://i.ibb.co/ByKxQpp/Screen-Shot-2022-05-08-at-2-49-59-PM.png)
 
-* This shows I was able to commit and push changes to a github repository in my ieng6 account. [Link to commit](https://github.com/SathyaVen/markdown-parser/commit/0907a07d1b8c34ee26d35df558354441b7a795dc)
+* This shows I was able to commit and push changes to a github repository in my ieng6 account. In this example, I simply added a file called hi.md to the repository. [Link to commit](https://github.com/SathyaVen/markdown-parser/commit/0907a07d1b8c34ee26d35df558354441b7a795dc)
 
 ## Copy Whole Directories with `scp -r`
 
@@ -38,6 +38,4 @@
 ![Image](https://i.ibb.co/9c47PR7/Screen-Shot-2022-05-08-at-4-27-47-PM.png)
 
 * This is the command I would use to do all of the commands in a single line.
-
-
 
