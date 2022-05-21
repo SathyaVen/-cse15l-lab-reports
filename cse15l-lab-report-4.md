@@ -13,6 +13,13 @@
 ![Image](https://www.linkpicture.com/q/Screen-Shot-2022-05-21-at-1.58.45-PM.png)
 
 ## Using the implementation I reviewed
+![Image](https://www.linkpicture.com/q/Screen-Shot-2022-05-21-at-4.07.24-PM.png)
+
+### Snippet #2
+![Image](https://www.linkpicture.com/q/Screen-Shot-2022-05-21-at-4.08.31-PM.png)
+
+### Snippet #3
+![Image](https://www.linkpicture.com/q/Screen-Shot-2022-05-21-at-4.10.21-PM.png)
 
 ## Questions
 1. No it appears my implementation of MarkdownParse for snippet 1 failed to add anything to the list. I think this will be a more involved change because I would need to look into why nothing is being added and then account for the cases that use inline code with backticks.
