@@ -1,6 +1,6 @@
 # Lab report 4
-* [Link to my implementation of markdown-parser](https://duckduckgo.com)
-* [Link to implementation of markdown-parser I reviewed](https://duckduckgo.com)
+* [Link to my implementation of markdown-parse](https://github.com/SathyaVen/markdown-parser)
+* [Link to implementation of markdown-parse I reviewed](https://duckduckgo.com)
 * All expected links are according to the commitmarkdown previewer
 ## Using My implementation
 ### Snippet #1
