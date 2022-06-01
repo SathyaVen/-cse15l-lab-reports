@@ -13,8 +13,8 @@
 
 ## Test #2 481.md
 * The output for my implmentation is shown below
-![Image](https://www.linkpicture.com/q/Screen-Shot-2022-05-31-at-11.24.29-PM.png)
+![Image](https://www.linkpicture.com/q/Screen-Shot-2022-05-31-at-11.24.08-PM.png)
 * The output for the provided implementation is shown below
-![Image](https://www.linkpicture.com/q/Screen-Shot-2022-05-31-at-11.25.58-PM.png)
+![Image](https://www.linkpicture.com/q/Screen-Shot-2022-05-31-at-11.24.29-PM.png)
 * The expected output is again `/uri`. Both implementations are incorect.
 * The bug in my implementation is that the method throws an illegal argument exception when its not supposed to. This happens on line 27, where the value of openBracket is -1, and thus the line evaluates.
