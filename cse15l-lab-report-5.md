@@ -1,6 +1,8 @@
 # Lab Report 5
 * I searched through the tests with different results manually in order to find the differing outputs
 * All expected links are according to common mark
+* [Link 548.md](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/548.md)
+* [Link 481.md](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/481.md)
 
 ## Test #1 548.md
 * The output for my implmentation is shown below
