@@ -7,4 +7,5 @@
 
 [Lab Report 4](cse15l-lab-report-4.md)
 
+[Lab Report 5](cse15l-lab-report-5.md)
 
