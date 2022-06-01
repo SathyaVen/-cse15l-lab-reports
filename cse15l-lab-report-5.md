@@ -7,5 +7,5 @@
 ![Image](https://www.linkpicture.com/q/Screen-Shot-2022-05-31-at-11.25.43-PM.png)
 * The output for the provided implementation is shown below
 ![Image](https://www.linkpicture.com/q/Screen-Shot-2022-05-31-at-11.25.58-PM.png)
-* The expected output is '/uri'.Both implementations are incorect.
+* The expected output is `/uri`. Both implementations are incorect.
 * 
